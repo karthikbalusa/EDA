@@ -1,4 +1,7 @@
-The data available in the real world is in different data files, when working on a problem we cannot really get the needed data in single file , so we also need to focus on the merging the data on a common column before making the analysis, so in this project we are going to learn the merging og datasets on working on them.
+The data available in the real world is in different data files, 
+when working on a problem we cannot really get the needed data in single file , 
+so we also need to focus on the merging the data on a common column before making the analysis, 
+so in this project we are going to learn the merging og datasets on working on them.
 
 
 Data info 
